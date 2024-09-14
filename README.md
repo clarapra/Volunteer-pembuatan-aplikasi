@@ -3,8 +3,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.<br>
 
 Silakan gunakan format berikut:<br>
-**\* Clara, [LinkedIn/Githhub](www.linkedin.com/in/clarapratiwi/www.github.com/in/clarapra).**  
+**\* Clara, [LinkedIn](www.linkedin.com/in/clarapratiwi).**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Kwon Hoshi, [oo.or.id](https://oo.or.id).
-* Clara Pratiwi [LinkedIn](www.linkedin.com/in/clarapratiwi)
+* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
